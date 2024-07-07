@@ -1,0 +1,13 @@
+# Ignore Unix executables
+# These patterns try to match files without extensions
+# but be cautious as they might match non-executables too
+*
+!*/
+!*.*
+
+# Ignore all .dSYM files and directories
+*.dSYM
+*.dSYM/**
+
+*.in
+*.out
