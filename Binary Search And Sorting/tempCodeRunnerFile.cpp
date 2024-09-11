@@ -1,3 +1,2 @@
-
-
-    while (lo < hi){
+    // freopen("angry.in", "r", stdin);
+    // freopen("angry.out", "w", stdout);
